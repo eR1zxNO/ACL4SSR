@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-05-02 21:04:18
-# 数量：2575条
+# 更新：2020-05-10 22:09:32
+# 数量：2574条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -516,7 +516,6 @@ DOMAIN-SUFFIX,cnt.rambler.ru
 DOMAIN-SUFFIX,cnt.rate.ru
 DOMAIN-SUFFIX,cnt.vivatube.com
 DOMAIN-SUFFIX,cnt2.stroeerdp.de
-DOMAIN-SUFFIX,co.hltv.org
 DOMAIN-SUFFIX,cod.bitrec.com
 DOMAIN-SUFFIX,coin-cube.com
 DOMAIN-SUFFIX,coletor.terra.com
@@ -938,7 +937,6 @@ DOMAIN-SUFFIX,geo.6play.fr
 DOMAIN-SUFFIX,geo.battle.net
 DOMAIN-SUFFIX,geo.ertya.com
 DOMAIN-SUFFIX,geo.gorillanation.com
-DOMAIN-SUFFIX,geo.hltv.org
 DOMAIN-SUFFIX,geo.homepage-web.com
 DOMAIN-SUFFIX,geo.kontagent.net
 DOMAIN-SUFFIX,geo.metronews.ca
@@ -1275,6 +1273,7 @@ DOMAIN-SUFFIX,mms.expertreviews.co.uk
 DOMAIN-SUFFIX,mms.gizmodo.com
 DOMAIN-SUFFIX,mms.gocomics.com
 DOMAIN-SUFFIX,mms.gulflive.com
+DOMAIN-SUFFIX,mms.itpro.co.uk
 DOMAIN-SUFFIX,mms.jalopnik.com
 DOMAIN-SUFFIX,mms.jezebel.com
 DOMAIN-SUFFIX,mms.lehighvalleylive.com
