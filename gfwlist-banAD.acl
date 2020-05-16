@@ -1,6 +1,6 @@
 #**********************************************************************
-# 05.08
-# 2020年5月8日14:13:15
+# 05.16
+# 2020年5月16日22:01:05
 # 转载需要注明版权和来源
 # 全部规则来自GFWList 没有白名单
 #
@@ -939,6 +939,7 @@
 (^|\.)feixin2\.com$
 (^|\.)flashtalking\.com$
 (^|\.)fraudmetrix\.cn$
+(^|\.)g1\.tagtic\.cn$
 (^|\.)gentags\.net$
 (^|\.)gepush\.com$
 (^|\.)getui\.com$
@@ -1085,7 +1086,6 @@
 (^|\.)sycbbs\.com$
 (^|\.)synacast\.com$
 (^|\.)sysdig\.com$
-(^|\.)tagtic\.cn$
 (^|\.)talkingdata\.com$
 (^|\.)talkingdata\.net$
 (^|\.)tansuotv\.com$

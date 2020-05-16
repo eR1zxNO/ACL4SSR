@@ -1,5 +1,5 @@
 # 内容：AccelerateDirectSites
-# 数量：240条
+# 数量：242条
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,178.com
@@ -129,6 +129,7 @@ DOMAIN-SUFFIX,meilishuo.com
 DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,meizu.com
+DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,miguvideo.com
 DOMAIN-SUFFIX,mobike.com
 DOMAIN-SUFFIX,mogu.com
@@ -217,6 +218,7 @@ DOMAIN-SUFFIX,xiachufang.com
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xiaojukeji.com
 DOMAIN-SUFFIX,xinhuanet.com
+DOMAIN-SUFFIX,xip.io
 DOMAIN-SUFFIX,xitek.com
 DOMAIN-SUFFIX,xiumi.us
 DOMAIN-SUFFIX,xslb.net
