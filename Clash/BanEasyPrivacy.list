@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-05-16 22:00:33
-# 数量：2575条
+# 更新：2020-05-17 09:59:59
+# 数量：2574条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -2540,7 +2540,6 @@ DOMAIN-SUFFIX,wiltshiretimes-gb.wiltshiretimes.co.uk
 DOMAIN-SUFFIX,win.staticstuff.net
 DOMAIN-SUFFIX,wisteria-js.excite.co.jp
 DOMAIN-SUFFIX,wkctj.baidu.com
-DOMAIN-SUFFIX,wl.jd.com
 DOMAIN-SUFFIX,wla.vivaldi.com
 DOMAIN-SUFFIX,worcesternews-gb.worcesternews.co.uk
 DOMAIN-SUFFIX,wordc.ga

@@ -1520,7 +1520,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9680条
+# 数量：9687条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -2822,6 +2822,7 @@
 (^|\.)analyzer52\.fc2\.com$
 (^|\.)anastasiaana\.com$
 (^|\.)anatomicele\.site$
+(^|\.)anglishreasts\.site$
 (^|\.)anhuilitian\.net$
 (^|\.)aniashboy\.club$
 (^|\.)anioscp\.com$
@@ -2873,6 +2874,7 @@
 (^|\.)arealx\.com$
 (^|\.)areantaid\.site$
 (^|\.)areapebeg\.club$
+(^|\.)arejoysew\.com$
 (^|\.)arganostrella\.com$
 (^|\.)argos\.citruserve\.com$
 (^|\.)arketscolourse\.site$
@@ -3187,6 +3189,7 @@
 (^|\.)becauseared\.site$
 (^|\.)becode\.xiao84\.com$
 (^|\.)bedhdig\.cn$
+(^|\.)bedrooming\.club$
 (^|\.)beeashale\.club$
 (^|\.)beeho\.site$
 (^|\.)beewanuk\.net$
@@ -3452,6 +3455,7 @@
 (^|\.)calculated\.cn$
 (^|\.)caliyuna\.cn$
 (^|\.)camantasp\.club$
+(^|\.)cambrianter\.club$
 (^|\.)camtinolc\.com$
 (^|\.)cangnews\.com$
 (^|\.)canonch\.pro$
@@ -5559,6 +5563,7 @@
 (^|\.)hfyxdl\.com$
 (^|\.)hg-labs\.com$
 (^|\.)hgdanbas\.cn$
+(^|\.)hgdy-hffb-ihgd-8hgf\.wrkl\.xyz$
 (^|\.)hgo7r\.cn$
 (^|\.)hgrqp\.com$
 (^|\.)hguac\.com$
@@ -5613,6 +5618,7 @@
 (^|\.)hjues\.com$
 (^|\.)hjyll\.top$
 (^|\.)hjzndq\.com$
+(^|\.)hk56947pjjq5\.com$
 (^|\.)hk662\.com$
 (^|\.)hk7799\.net$
 (^|\.)hk9600\.com$
@@ -6163,6 +6169,7 @@
 (^|\.)jtdxz\.top$
 (^|\.)jtkshop\.net$
 (^|\.)jucaishequ\.com$
+(^|\.)judaisydfs\.club$
 (^|\.)julitenj\.com$
 (^|\.)jullycn\.com$
 (^|\.)jundazulin\.com$
@@ -6886,6 +6893,7 @@
 (^|\.)mercialtaver\.club$
 (^|\.)merciselyancies\.site$
 (^|\.)met\.vgwort\.de$
+(^|\.)methingewsf\.club$
 (^|\.)metmt\.com$
 (^|\.)metric-agent\.i10c\.net$
 (^|\.)metric\.inetcore\.com$
@@ -10302,7 +10310,6 @@
 (^|\.)wkjava\.top$
 (^|\.)wkjhd\.com$
 (^|\.)wksrx\.cn$
-(^|\.)wl\.jd\.com$
 (^|\.)wl963\.com$
 (^|\.)wla\.vivaldi\.com$
 (^|\.)wlkpa\.cn$
