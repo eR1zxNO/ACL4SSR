@@ -1520,7 +1520,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9767条
+# 数量：9768条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -9378,6 +9378,7 @@
 (^|\.)th21333\.com$
 (^|\.)thamsais\.com$
 (^|\.)theargus-gb\.theargus\.co\.uk$
+(^|\.)theationopo\.club$
 (^|\.)theatredveres\.site$
 (^|\.)theatrialmero\.club$
 (^|\.)theeburs\.com$

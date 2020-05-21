@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2020-05-10 22:09:41
-# 数量：263条
+# 更新：2020-05-21 23:29:42
+# 数量：264条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -310,11 +310,11 @@ DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 
 # Twitch
+DOMAIN-KEYWORD,ttvnw
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
-DOMAIN-KEYWORD,ttvnw
 
 # ViuTV
 USER-AGENT,Viu*
