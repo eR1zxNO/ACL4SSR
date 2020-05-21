@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-05-17 09:59:59
-# 数量：2574条
+# 更新：2020-05-21 22:48:28
+# 数量：2578条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -367,6 +367,7 @@ DOMAIN-SUFFIX,bglog.bitauto.com
 DOMAIN-SUFFIX,bhu9.bankia.es
 DOMAIN-SUFFIX,bi.medscape.com
 DOMAIN-SUFFIX,bid.g.doubleclick.net
+DOMAIN-SUFFIX,bidder.mediams.mb.softbank.jp
 DOMAIN-SUFFIX,binarybusiness.de
 DOMAIN-SUFFIX,bisko.mall.tv
 DOMAIN-SUFFIX,bit.ehow.com
@@ -942,6 +943,7 @@ DOMAIN-SUFFIX,geo.metronews.ca
 DOMAIN-SUFFIX,geo.mezr.com
 DOMAIN-SUFFIX,geo.mtvnn.com
 DOMAIN-SUFFIX,geo.nbcsports.com
+DOMAIN-SUFFIX,geo.ngtv.io
 DOMAIN-SUFFIX,geo.play.it
 DOMAIN-SUFFIX,geo.q5media.net
 DOMAIN-SUFFIX,geo.xcel.io
@@ -1127,6 +1129,7 @@ DOMAIN-SUFFIX,log.china.cn
 DOMAIN-SUFFIX,log.cizion.com
 DOMAIN-SUFFIX,log.codemarketing.cloud
 DOMAIN-SUFFIX,log.ecgh.dk
+DOMAIN-SUFFIX,log.f-tra.com
 DOMAIN-SUFFIX,log.flight.qunar.com
 DOMAIN-SUFFIX,log.hiiir.com
 DOMAIN-SUFFIX,log.hypebeast.com
@@ -2515,6 +2518,7 @@ DOMAIN-SUFFIX,we.wecanimal.pt
 DOMAIN-SUFFIX,web-t.9gag.com
 DOMAIN-SUFFIX,web-track.telekom-dienste.de
 DOMAIN-SUFFIX,web1.51.la
+DOMAIN-SUFFIX,webbc.fivecdm.com
 DOMAIN-SUFFIX,webcounter.goweb.de
 DOMAIN-SUFFIX,webhit.aftenposten.no
 DOMAIN-SUFFIX,webhit.snd.no
