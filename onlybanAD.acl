@@ -2017,7 +2017,7 @@
 (^|\.)twitch\.tv$
 (^|\.)ttvnw\.net$
 (^|\.)jtvnw\.net$
-(^|\.)akamaized\.net$
+(^|\.)(\S*)ttvnw\.akamaized\.net$
 
 # Twitter
 (^|\.)t\.co$
