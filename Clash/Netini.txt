@@ -1,0 +1,2 @@
+🎧𝐌𝐮𝐬𝐢𝐜 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,"desperadoj.com_free_proxy_x80j"
+🎧𝐌𝐮𝐬𝐢𝐜𝟐 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_x80j"
