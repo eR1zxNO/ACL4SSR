@@ -1,6 +1,5 @@
 🎧𝐌𝐮𝐬𝐢𝐜𝟏 = http, 106.52.127.72, 19951
-🎧𝐌𝐮𝐬𝐢𝐜𝟐 = http, aimer.one, 2333
-🎧𝐌𝐮𝐬𝐢𝐜𝟑 = http, taron.top, 100
-🎧𝐌𝐮𝐬𝐢𝐜𝟒 = http,music.griouges.cn,39000
-shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_x80j, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜𝟓
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_x80j, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜𝟔
+🎧𝐌𝐮𝐬𝐢𝐜𝟐 = http, taron.top, 100
+🎧𝐌𝐮𝐬𝐢𝐜𝟑 = http,music.griouges.cn,39000
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_x80j, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜𝟒
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_x80j, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜𝟓
